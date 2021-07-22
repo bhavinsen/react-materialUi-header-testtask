@@ -47,6 +47,9 @@ body{
     height: 40px;
     font-size: 19px;
 }
+.appbarMain .btnRegister:hover{
+    background: #2D9CDB;
+}
 .appbarMain .btnsignin{
     color: #000;
     font-size: 19px;
