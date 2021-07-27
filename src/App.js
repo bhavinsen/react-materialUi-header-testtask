@@ -1,14 +1,12 @@
-import Header from './Components/Header';
-import './App.css';
+import Header from './Components/Header'
+import './App.css'
 
-function App() {
+function App () {
   return (
-    <div className="App">
-      <div className="headerMainWrap">
-        <Header className="App-header" />
-      </div>
+    <div className='App'>
+      <Header className='App-header' />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
